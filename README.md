@@ -45,6 +45,11 @@ As much as the mod is well crafted and very well done, there are still some bugs
 Bugs and errors recorded so far are just those, if you find another error, let the creator know so they can be resolved!!
 
 
+## • License
+
+This mod took a lot of work to do, so if you want to spread something about this mod, **post/tag the official link of the mod from [MCPEDL]() or [GitHub](https://github.com/Pv3Moddz/drops_multiplier)**, if possible tag the [creator]() of the mod.
+
+
 ## • Mod Credits
 
 This mod was fully created, tested, recorded and published by [Pv3Moddz(me)](https://github.com/Pv3Moddz), all in order to be able to present something that can amuse the community of minecraft players.
