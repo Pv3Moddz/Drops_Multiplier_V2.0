@@ -56,3 +56,10 @@ This mod was fully created, tested, recorded and published by [Pv3Moddz(me)](htt
 
 - My primary channel (programming): [@Pv3Moddz](https://youtube.com/@Pv3Moddz)
 - My secondary channel (games): [@pv3zin](https://youtube.com/@pv3zin)
+
+
+## • Download
+
+After downloading the mod from the link below, open your file manager in the "Downloads" folder and search for the downloaded content, when you find it, rename the files and only remove the ".zip". If you don't know how to add the mod to your mine, see the [video of the mod on YouTube](https://youtube.com/@pv3zin).
+
+- Download Mod: [Drops Multiplier V2.0 ( mcpe 1.20.30 )](https://www.mediafire.com/file/giivly4b7tckfc3/Drops_Multiplier_V2.0.mcpack.zip/file)
