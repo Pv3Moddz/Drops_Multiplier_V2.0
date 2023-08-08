@@ -50,7 +50,7 @@ This mod took a lot of work to do, so if you want to spread something about this
 
 ## • Mod Credits
 
-This mod was fully created, tested, recorded and published by [Pv3Moddz(me)](https://github.com/Pv3Moddz), all in order to be able to present something that can amuse the community of minecraft players.
+This mod was fully created, tested, recorded and published by [Pv3Moddz(me)](https://youtube.com/pv3zin), all in order to be able to present something that can amuse the community of minecraft players.
 
 - My primary channel (programming): [@Pv3Moddz](https://youtube.com/@Pv3Moddz)
 - My secondary channel (games): [@pv3zin](https://youtube.com/@pv3zin)
