@@ -44,11 +44,9 @@ As much as the mod is well crafted and very well done, there are still some bugs
 
 Bugs and errors recorded so far are just those, if you find another error, let the creator know so they can be resolved!!
 
-
 ## • License
 
 This mod took a lot of work to do, so if you want to spread something about this mod, **post/tag the official link of the mod from [MCPEDL](https://mcpedl.com/Drops-Multiplier-V2.0/) or [GitHub](https://github.com/Pv3Moddz/Drops_Multiplier_V2.0/)**, if possible tag the [creator](https://github.com/Pv3Moddz/Drops_Multiplier_V2.0/#-mod-credits) of the mod.
-
 
 ## • Mod Credits
 
@@ -57,9 +55,10 @@ This mod was fully created, tested, recorded and published by [Pv3Moddz(me)](htt
 - My primary channel (programming): [@Pv3Moddz](https://youtube.com/@Pv3Moddz)
 - My secondary channel (games): [@pv3zin](https://youtube.com/@pv3zin)
 
-
 ## • Download
 
 After downloading the mod from the link below, open your file manager in the "Downloads" folder and search for the downloaded content, when you find it, rename the files and only remove the ".zip". If you don't know how to add the mod to your mine, see the [video of the mod on YouTube](https://youtube.com/@pv3zin).
 
 - Download Mod: [Drops Multiplier V2.0 ( mcpe 1.20.30 )](https://www.mediafire.com/file/giivly4b7tckfc3/Drops_Multiplier_V2.0.mcpack.zip/file)
+
+**For link errors, notify the creator**
