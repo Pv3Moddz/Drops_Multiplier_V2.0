@@ -43,3 +43,11 @@ As much as the mod is well crafted and very well done, there are still some bugs
 - Some blocks are not registered in the base code of the script, so there may be errors in drops.
 
 Bugs and errors recorded so far are just those, if you find another error, let the creator know so they can be resolved!!
+
+
+## • Mod Credits
+
+This mod was fully created, tested, recorded and published by [Pv3Moddz(me)](github.com/Pv3Moddz), all in order to be able to present something that can amuse the community of minecraft players.
+
+- My primary channel (programming): [@Pv3Moddz](youtube.com/@Pv3Moddz)
+- My secondary channel (games): [@pv3zin](youtube.com/@pv3zin)
