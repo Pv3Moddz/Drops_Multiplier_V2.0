@@ -47,7 +47,7 @@ Bugs and errors recorded so far are just those, if you find another error, let t
 
 ## • License
 
-This mod took a lot of work to do, so if you want to spread something about this mod, **post/tag the official link of the mod from [MCPEDL](https://mcpedl.com/Drops-Multiplier-V2.0/) or [GitHub](https://github.com/Pv3Moddz/drops_multiplier/)**, if possible tag the [creator](https://github.com/Pv3Moddz/drops_multiplier/tree/main#-mod-credits) of the mod.
+This mod took a lot of work to do, so if you want to spread something about this mod, **post/tag the official link of the mod from [MCPEDL](https://mcpedl.com/Drops-Multiplier-V2.0/) or [GitHub](https://github.com/Pv3Moddz/drops_multiplier/)**, if possible tag the [creator](https://github.com/Pv3Moddz/drops_multiplier/#-mod-credits) of the mod.
 
 
 ## • Mod Credits
